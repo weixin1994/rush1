@@ -21,7 +21,7 @@ SRCS	= Box.cpp \
 		  Teddy.cpp \
 		  Toy.cpp \
 		  Wrap.cpp \
-		  test_unitaire.cpp
+		  test.cpp
 
 OBJS	= $(SRCS:.cpp=.o)
 
